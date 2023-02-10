@@ -1,3 +1,4 @@
 hello git.
 
-Todays date is 10th Feb. This is my third lecture of git. hello
+Todays date is 10th Feb. 
+This is my third lecture of git. hello
