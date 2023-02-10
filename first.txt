@@ -1,1 +1,3 @@
-hello git
+hello git.
+
+Todays date is 10th Feb
